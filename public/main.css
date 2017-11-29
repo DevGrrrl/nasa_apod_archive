@@ -1,0 +1,54 @@
+body{
+  background-color: black;
+  color:#10FF00;
+  font-size: 1.3rem;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h1 {
+  color: white;
+}
+
+.container{
+  width: 60%;
+  margin:auto;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.container__top{
+ margin-top:50%;
+
+}
+.title__heading {
+  font-family: 'Press Start 2P', cursive;
+    color: #90FF00;
+}
+
+.input__field {
+box-sizing: border-box;
+font-size: 1.5rem;
+border: 2.5px solid white;
+border-radius: 6px;
+width: 20%;
+}
+
+.button{
+  font-size: 1.2rem;
+  border: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.form {
+
+}
+.image{
+
+}
+.description{
+  margin-top: 3%;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+
+
+}
