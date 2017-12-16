@@ -40,7 +40,7 @@ const apiHandler = (req, res) =>{
   const search = req.url;
   const parsed = queryString.parse(search);
   const date = parsed['/api'];
-  
+
   apirequest(res, date);
 
 }
